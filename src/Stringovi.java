@@ -1,5 +1,4 @@
 import java.util.Locale;
-import java.util.Scanner;
 
 public class Stringovi {
 
@@ -64,6 +63,8 @@ public class Stringovi {
 
         String words = "Koliko ima rijeci u ovoj recenici?";
         System.out.println(words.split(" ").length);
+
+
 
 
         /*
