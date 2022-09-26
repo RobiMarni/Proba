@@ -1,4 +1,5 @@
 import java.util.Locale;
+import java.util.Scanner;
 
 public class Stringovi {
 
@@ -61,10 +62,8 @@ public class Stringovi {
         StringBuilder reverse = new StringBuilder();
         System.out.println(reverse.append(test).reverse());
 
-        String words = "Koliko ima rijeci u recenici?";
+        String words = "Koliko ima rijeci u ovoj recenici?";
         System.out.println(words.split(" ").length);
-
-
 
 
         /*
