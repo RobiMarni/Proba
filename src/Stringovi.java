@@ -61,8 +61,7 @@ public class Stringovi {
         StringBuilder reverse = new StringBuilder();
         System.out.println(reverse.append(test).reverse());
 
-        String words = "Koliko ima rijeci u recenic peroi?";
-        System.out.println("Conflict");
+        String words = "Koliko ima rijeci u ovoj recenici?";
         System.out.println(words.split(" ").length);
 
 
